@@ -8,11 +8,10 @@ Hello! I am Michael Khan, a co-lead for SIG Hacks.
 I have experience in C, C++, and Python.
 I'm excited to learn about JavaScript with you all!
 
+## Samuel Effendy
+Hi! I'm Sam Effendy, a co-leader for SIG Hacks.
+
 ## Maaz Zubair
 Hi, I'm Maaz Zubair, a second-year Mathematics and Computer Science major.
 Most of my experience is in Python and JavaScript, but I have also worked in Java,C++, and Arduino
 I've ironically run more hackathons than I've been a part of
-
-
-## Samuel Effendy
-Hi, I'm Samuel Effendy.
