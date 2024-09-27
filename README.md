@@ -4,5 +4,6 @@ Acquainting members with GitHub &amp; GitHub Codespaces.
 Members:
 
 ## Michael Hanif Khan
-Hello! I am Michael Khan, a colead for SIG Hacks.
-I have a lot to learn about JavaScript, and I am excited to particpate as a team in Hackathons!
+Hello! I am Michael Khan, a co-lead for SIG Hacks.
+I have experience in C, C++, and Python.
+I'm excited to learn about JavaScript with you all!
