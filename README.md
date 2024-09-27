@@ -17,3 +17,6 @@ I'm excited to finally participate in a hackathon.
 Hi, I'm Maaz Zubair, a second-year Mathematics and Computer Science major.
 Most of my experience is in Python and JavaScript, but I have also worked in Java,C++, and Arduino
 I've ironically run more hackathons than I've been a part of
+
+## Samuel Effendy
+Hi, I'm Samuel Effendy
