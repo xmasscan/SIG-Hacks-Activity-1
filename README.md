@@ -10,7 +10,7 @@ I'm excited to learn about JavaScript with you all!
 
 ## Samuel Peter Skean
 Hello, I am Samuel Skean, a first-year master's student.
-Here is my [website](samuel-skean.github.io).
+Here is my [website](https://samuel-skean.github.io).
 I'm excited to finally participate in a hackathon.
 
 ## Maaz Zubair
